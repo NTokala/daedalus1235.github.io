@@ -3,5 +3,5 @@ title: Calendar
 layout: calendar
 ---
 
-# Important Dates:
+# Random Dates:
 

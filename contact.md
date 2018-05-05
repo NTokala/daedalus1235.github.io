@@ -17,7 +17,7 @@ title: Contact
 	
 	Snapchat:  	daedalus1235?
 	
-	Facebook: 	never going to get one. ever.
+	Facebook: 	never gonna get one. ever.
 	
 	discord: 	daedalus_II #3985
     
