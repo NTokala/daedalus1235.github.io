@@ -4,24 +4,25 @@ title: Contact
 
 ## Things that I might check
 
-    email: <charlesfengyang@gmail.com> <genericraxacoricofallapatorian@gmail.com>
+    email:  <charlesfengyang@gmail.com> 
+			<genericraxacoricofallapatorian@gmail.com>
     
-    skype: daedalus1235
+    skype:  daedalus1235
     
 	
 	
 ### Things that I most certainly won't:
 
-	Instagram: @daedalus_ii
+	Instagram: 	@daedalus_ii
 	
-	Snapchat: daedalus1235?
+	Snapchat:  	daedalus1235?
 	
-	Facebook: never going to get one. ever.
+	Facebook: 	never going to get one. ever.
 	
-	discord: daedalus_II #3985
+	discord: 	daedalus_II #3985
     
-    steam: daedalus_II
+    steam: 		daedalus_II
     
-    github: @daedalus1235
+    github: 	@daedalus1235
 	
 	
