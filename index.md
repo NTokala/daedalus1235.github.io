@@ -1,1 +1,4 @@
-
+---
+title: Thing
+---
+# Stuff
