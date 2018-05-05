@@ -1,0 +1,14 @@
+wepbage_list_title: Directory
+toc:
+
+- title: Home
+  url: /
+
+- title: Calendar
+  url: /calendar
+
+- title: About Me
+  url: /about
+  
+- title: Contact
+  url: /contact
