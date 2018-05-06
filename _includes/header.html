@@ -4,6 +4,9 @@
       {% if page.subtitle != null %}
         <h2 id="project_tagline">{{ page.subtitle | default: "Missing Subtitle"}}</h2>
       {% endif %}
+	  {% if page.date != null %}
+        <h3 id="project_tagline">{{ page.date | default: "Missing Date"}}</h3>
+      {% endif %}
       {% if site.show_downloads %}
         <section id="downloads">
           <a class="zip_download_link" href="{{ site.github.zip_url }}">Download this project as a .zip file</a>
