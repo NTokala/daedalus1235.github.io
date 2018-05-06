@@ -21,7 +21,13 @@ If I can somehow keep doing this to the end of the month, I feel that there is a
 
 # Topic the Second: Tech 'n' Stuff
 
-This page, as noted in the footer, was made using GitHub pages. Because I never bothered to learn HTML, I'm trying to use a combination of HTML, Jekyll, Markdown, and MathJax so that I have the versatility to make things pretty in the future. I really hope MathJax works, because then I'll be able to write pretty equations using $\LaTeX{}$, such as a proof for the Boltzmann Entropy Equation below. I am using my text-editor/IDE of choice, Notepad++, because it has a nice folder-as-a-workspace option and dark mode. Also I couldn't really be bothered to learn how to use Vim, but that might change now that I apparently have a free [Lynda](https://lynda.com) subscription. A lot of the HTML code I stole from a different website that I had been working on with some friends a few months ago, and I don't really remember how .yml stuff works so this will be fun. GitHub is great because it makes it easy to work with multiple tabs/files open in Notepad++ and still have the "code" and text easily uploaded.
+This page, as noted in the footer, was made using GitHub pages. Because I never bothered to learn HTML, I'm trying to use a combination of HTML, Jekyll, Markdown, and MathJax so that I have the versatility to make things pretty in the future. I really hope MathJax works, because then I'll be able to write pretty equations using $\LaTeX{}$, such as a proof for the Boltzmann Entropy Equation below. I am using my text-editor/IDE of choice, Notepad++, because it has a nice folder-as-a-workspace option and dark mode. Also I couldn't really be bothered to learn how to use Vim, but that might change now that I apparently have a free [Lynda](https://lynda.com) subscription. A lot of the HTML code I stole from a different website that I had been working on with some friends a few months ago, and I don't really remember how .yml stuff works so this will be fun. GitHub is great because it makes it easy to work with multiple tabs/files open in Notepad++ and still have the "code" and text easily uploaded. BTW I suck at coding and programming. 
+
+---
+
+# Topic the Third: Science and MathJax
+
+Science and Math are two of my greatest passions. Randomly I might just post some random equation or proof that I found elegant, or some interesting fact about the universe. For example:
 
 ### Boltzmann Entropy
 Given $PV=NK_{B}T$, and assuming work$=-PdV$ and $dU=0$
