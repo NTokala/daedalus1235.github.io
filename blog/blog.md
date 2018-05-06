@@ -5,4 +5,13 @@ layout: blog
 ---
 
 # I might write stuff here. 
-I probably won't. As such, it won't be going into the navbar until I do.
+
+	After having spoken to @NTokala, I have decided that I will write the occasional blog post. These posts will be about literally anything: linguistics, tech, science, music, etc.
+
+###Archives:
+[2018](blog/2018/index)
+
+
+
+
+##
