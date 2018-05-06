@@ -21,7 +21,35 @@ If I can somehow keep doing this to the end of the month, I feel that there is a
 
 # Topic the Second: Tech 'n' Stuff
 
-This page, as noted in the footer, was made using GitHub pages. Because I never bothered to learn HTML, I'm trying to use a combination of HTML, Jekyll, Markdown, and MathJax so that I have the versatility to make things pretty in the future. I really hope MathJax works, because then I'll be able to write pretty equations using $\LaTeX$, such as a proof for the Boltzmann Entropy Equation below. I am using my text-editor/IDE of choice, Notepad++, because it has a nice folder-as-a-workspace option and dark mode. Also I couldn't really be bothered to learn how to use Vim, but that might change now that I apparently have a free [Lynda](https://lynda.com) subscription. A lot of the HTML code I stole from a different website that I had been working on with some friends a few months ago, and I don't really remember how .yml stuff works so this will be fun. GitHub is great because it makes it easy to work with multiple tabs/files open in Notepad++ and still have the "code" and text easily uploaded.
+This page, as noted in the footer, was made using GitHub pages. Because I never bothered to learn HTML, I'm trying to use a combination of HTML, Jekyll, Markdown, and MathJax so that I have the versatility to make things pretty in the future. I really hope MathJax works, because then I'll be able to write pretty equations using $\LaTeX{}$, such as a proof for the Boltzmann Entropy Equation below. I am using my text-editor/IDE of choice, Notepad++, because it has a nice folder-as-a-workspace option and dark mode. Also I couldn't really be bothered to learn how to use Vim, but that might change now that I apparently have a free [Lynda](https://lynda.com) subscription. A lot of the HTML code I stole from a different website that I had been working on with some friends a few months ago, and I don't really remember how .yml stuff works so this will be fun. GitHub is great because it makes it easy to work with multiple tabs/files open in Notepad++ and still have the "code" and text easily uploaded.
 
+### Boltzmann Entropy
+Given $PV=NK_{B}T$, and assuming work$=-PdV$ and $dU=0$
+$$
+	\begin{align}
+		w & =-\int PdV \\
+		& =-Nk_{B}T\int \frac{dV}{V} \\
+		& =-Nk_{B}T\ln{V}  
+	\end{align}
+$$
+Then, using $dU=0$, we can rewrite the above expression in terms of q, resulting in
+$$
+	\begin{align}
+		q &=Nk_{B}T\ln{V}
+	\end{align}	
+$$
+Dividing by $T$, we can obtain an expression in terms of $\frac{q}{T}$, or $S$. Therefore,
+$$
+	\begin{align}
+		S &= \frac{q}{T} = Nk_{B}\ln{V} \\
+		&= k_{B}\ln{V^{N}}
+	\end{align}
+$$
+However, raising volume to the number of particles in the system is effectively the same as the number of microstates. The volume represents the positions that an individual particle may be in, and the exponent the total number of permutations, or microstates, ($\omega$). As such, we reach the final equation, the Boltzmann Entropy Equation,
+$$
+	\begin{align}
+		S &=k_{B}\ln{\omega}
+	\end{align}
+$$
 
-##
+# #
