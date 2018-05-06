@@ -63,6 +63,11 @@ li.dropdown {
     {{ page.title | default: site.title}}
   </title>
     <link rel="shortcut icon" type="image/png" href="../favicon.png">
-
+	
   {% seo %}
+  
+  {% if page.use_math %}
+      {% include mathjax_support %}
+  {% endif %}
+  
   </head>
