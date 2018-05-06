@@ -5,7 +5,7 @@
         <h2 id="project_tagline">{{ page.subtitle | default: "Missing Subtitle"}}</h2>
       {% endif %}
 	  {% if page.date != null %}
-        <h3 id="project_tagline">{{ page.date | default: "Missing Date"}}</h3>
+        <p>{{ page.date | default: "Missing Date"}}</p>
       {% endif %}
       {% if site.show_downloads %}
         <section id="downloads">
