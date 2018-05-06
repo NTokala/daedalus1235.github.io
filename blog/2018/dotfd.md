@@ -25,7 +25,7 @@ This page, as noted in the footer, was made using GitHub pages. Because I never 
 
 ---
 
-# Topic the Third: Science and MathJax
+# Topic the Third: Science and Math
 
 Science and Math are two of my greatest passions. Randomly I might just post some random equation or proof that I found elegant, or some interesting fact about the universe. For example:
 
