@@ -5,7 +5,7 @@ title: Contact
 ## Things that I might check
 
     email:  <charlesfengyang@gmail.com> 
-	    <genericraxacoricofallapatorian@gmail.com>
+	    	<genericraxacoricofallapatorian@gmail.com>
     
     skype:  daedalus1235
     
